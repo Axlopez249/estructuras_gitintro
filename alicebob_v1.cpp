@@ -33,4 +33,5 @@ int main()
     }
 
     cout << "Alice ganó " << result[0] << " y Bob ganó " << result[1] << endl;
+    cout << "Axel López Vega" << endl;
 }
