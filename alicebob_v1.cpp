@@ -35,4 +35,5 @@ int main()
     cout << "Alice ganó " << result[0] << " y Bob ganó " << result[1] << endl;
     cout << "Axel López Vega" << endl;
     cout << "Alejandro Gutíerrez Chaves" << endl;
+    cout<< "Andres Quiros Picado"<< endl;
 }
