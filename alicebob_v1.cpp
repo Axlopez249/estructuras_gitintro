@@ -36,4 +36,5 @@ int main()
     cout << "Axel López Vega" << endl;
     cout << "Alejandro Gutíerrez Chaves" << endl;
     cout<< "Andres Quiros Picado"<< endl;
+    cout << "Stephanie Paola Sandoval Camacho" << endl;
 }
